@@ -1,0 +1,21 @@
+{
+  "name": "react-pluralsight-project",
+  "description": "example project builtin PluralSight React course",
+  "main": "index.js",
+  "authors": [
+    "jim w"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^0.14.7"
+  }
+}
