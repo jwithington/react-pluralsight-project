@@ -5,4 +5,4 @@ console.log('hello from JSX!');
 
 var GroceryItemList = require('./components/GroceryItemList.jsx');
 
-ReactDOM.render(<GroceryItemList items={initial}/>, app);
+ReactDOM.render(<GroceryItemList />, app);
